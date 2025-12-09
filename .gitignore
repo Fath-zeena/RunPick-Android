@@ -1,0 +1,26 @@
+# Folders and files created by Android Studio and Gradle
+*.iml
+.gradle
+/local.properties
+/.idea/workspace.xml
+/.idea/libraries
+.DS_Store
+/build
+/captures
+*.apk
+*.aab
+*.ap_
+*.jar
+*.keystore
+
+# Private signing keys
+*.keystore
+
+# Ignore unstable results of running tasks
+/build
+
+# Android Studio profiling data
+/captures/
+
+# Local configuration file (sdk.dir, etc)
+local.properties
