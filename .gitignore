@@ -11,10 +11,12 @@
 *.aab
 *.ap_
 *.jar
-*.keystore
 
 # Private signing keys
 *.keystore
+
+# Private configuration files
+google-services.json
 
 # Ignore unstable results of running tasks
 /build
