@@ -18,9 +18,6 @@
 # Private configuration files
 google-services.json
 
-# Ignore unstable results of running tasks
-/build
-
 # Android Studio profiling data
 /captures/
 
